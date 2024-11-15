@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522115761458",
+    "project_id": "pr20-c3c0f",
+    "storage_bucket": "pr20-c3c0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522115761458:android:e2a48849e0a8fb6068432b",
+        "android_client_info": {
+          "package_name": "com.example.pr20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg4dwiTV4Ucj7yxJJpl7g19tDHMvIP9Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
